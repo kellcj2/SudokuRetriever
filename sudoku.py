@@ -1,8 +1,13 @@
+# Author:        Christopher J. Kelly
+# Creation Date: 6/7/2019
+# Filename:      sudoku.py
+
 import sys
 import urllib3
 from bs4 import BeautifulSoup
 
 url = 'http://nine.websudoku.com?level='
+
 
 # name:   get_numbers
 # desc:   retrieves puzzle information from the webpage
