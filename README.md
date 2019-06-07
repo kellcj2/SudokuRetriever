@@ -1,16 +1,13 @@
 # SudokuRetriever
-
 Gets sudoku puzzles from 'websudoku.com' and puts them in a format compatible with Duncan's Soduku Solver.
-
-Requires:
-
-  python3.7
-
+### Requires
+```
+python3.7
 bs4
-
 soupsieve
-
 urllib3
-
-Usage: sudoku.py <Output File> [<Difficulty Level (1-4)>]
- 
+```
+### Usage
+```
+  sudoku.py <Output File> [<Difficulty Level (1-4)>]
+```
