@@ -4,8 +4,9 @@ Gets sudoku puzzles from 'websudoku.com' and puts them in a format compatible wi
 ```
 python3.7
 bs4
-soupsieve
+lxml
 urllib3
+
 ```
 ### Usage
 ```
