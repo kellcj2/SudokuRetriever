@@ -6,7 +6,6 @@ python3.7
 bs4
 lxml
 urllib3
-
 ```
 ### Usage
 ```
